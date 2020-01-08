@@ -1,0 +1,39 @@
+*{
+    background-color: grey;
+}
+header{
+    margin: 0px auto;
+    background-color: ivory;
+}
+#main{
+    background-color: ivory;
+    margin-top: 50px;
+    height: 300px;
+}
+textarea{
+    border-style: none;
+}
+#titleHead{
+    background-color: ivory;
+}
+#titleSeperator{
+    background-color: ivory;
+    border: 1px solid grey;
+}
+#passwordText{
+    margin: 0px auto;
+    text-align: center;
+    width: 650px;
+    background-color: ivory;
+}
+#generateButton{
+    display: block;
+    background-color: ivory;
+}
+#copyButton{
+    display: block;
+    background-color: ivory;
+}
+.empty{
+    background-color: ivory;
+}
