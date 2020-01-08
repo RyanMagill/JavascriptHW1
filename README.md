@@ -1,5 +1,7 @@
 # JavascriptHW1
 
+URL: https://ryanmagill.github.io/JavascriptHW1/
+
 Project will generate a random password with certain specifications entered by the user.
 
 Specifications for password:
